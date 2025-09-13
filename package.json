@@ -1,6 +1,6 @@
 {
   "name": "@fadzzzdigital-corp/baileys",
-  "version": "0.0.4",
+  "version": "1.0.4",
   "description": "WhatsApp API Modification by Fadzzz Digital",
   "keywords": [
     "whatsapp",
@@ -93,6 +93,9 @@
   },
   "directories": {
     "lib": "lib"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
   },
   "bugs": {
     "url": "https://github.com/fadzzzdigital/baileys/issues"
