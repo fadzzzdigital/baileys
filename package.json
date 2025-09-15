@@ -1,6 +1,6 @@
 {
   "name": "@fadzzzdigital-corp/baileys",
-  "version": "1.0.4",
+  "version": "0.0.5",
   "description": "WhatsApp API Modification by Fadzzz Digital",
   "keywords": [
     "whatsapp",
@@ -48,7 +48,7 @@
     "@fadzzzdigital-corp/eslint-config": "^1.0.0", 
     "@fadzzzdigital-corp/libsignal-node": "^1.0.0", 
     "async-mutex": "^0.5.0",
-    "axios": "^1.6.0",
+    "axios": "^1.12.1",
     "audio-decode": "^2.2.2", 
     "cache-manager": "^5.7.6", 
     "fflate": "^0.8.2", 
@@ -93,9 +93,6 @@
   },
   "directories": {
     "lib": "lib"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
   },
   "bugs": {
     "url": "https://github.com/fadzzzdigital/baileys/issues"
