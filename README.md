@@ -5,15 +5,15 @@
   <img src="https://camo.githubusercontent.com/35536341a333c008220a576e35a24c3eab845e2e6fd89b6ccb19e9029d390ca4/68747470733a2f2f692e6962622e636f2e636f6d2f3237676b525a38702f32303235303731302d3230343230382e706e67" />
 
   <a href="https://www.npmjs.com/package/@fadzzzdigital-corp/baileys">
-    <img src="https://img.shields.io/npm/v/@fadzzzdigital-corp/baileys?color=red&label=Version&logo=npm" alt="npm version" />
+    <img src="https://img.shields.io/npm/v/@fadzzzdigital-corp/baileys?color=red&label=version&logo=npm" alt="npm version" />
   </a>
 
   <a href="https://www.npmjs.com/package/@fadzzzdigital-corp/baileys">
-    <img src="https://img.shields.io/npm/dt/@fadzzzdigital-corp/baileys?color=red&label=Downloads&logo=npm" alt="npm downloads" />
+    <img src="https://img.shields.io/npm/dt/@fadzzzdigital-corp/baileys?color=red&label=downloads&logo=npm" alt="npm downloads" />
   </a>
 
   <a href="https://whatsapp.com/channel/0029VbBiCstKLaHkqyvdXc1o">
-    <img src="https://img.shields.io/badge/WhatsApp-Channel-25D366?logo=whatsapp&logoColor=white" alt="whatsApp channels" />
+    <img src="https://img.shields.io/badge/WhatsApp-Channel-25D366?logo=whatsapp&logoColor=white" alt="whatsapp channels" />
   </a>
 
 </div>
@@ -46,9 +46,16 @@ Install in package.json:
     "@fadzzzdigital-corp/baileys": "latest"
 }
 ```
+
 or install in terminal:
+
+Use the stable version:
 ```
 npm install @fadzzzdigital-corp/baileys
+```
+Use the edge version (no guarantee of stability, but latest fixes + features)
+```
+npm install @fadzzzdigital-corp/baileys@github:fadzzzdigital/baileys
 ```
 
 Then import the default function in your code:
